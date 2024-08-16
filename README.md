@@ -1,7 +1,7 @@
-<head>
-    <title>Klima Servis Yönetim Uygulaması</title>
-</head>
-<body>
+
+    <h1>Klima Servis Yönetim Uygulaması</h1>
+
+
     <h1>Klima Servis Yönetim Uygulaması</h1>
     <p>Klima servis sektöründe, müşteri memnuniyeti ve operasyonel verimlilik her zaman ön plandadır. Bu uygulama, klima servisleri için özel olarak geliştirilmiş, çağrı yönetimi, personel takibi ve yetkilendirme işlemlerini kolaylaştıran güçlü bir çözümdür.</p>
     
@@ -13,4 +13,4 @@
     </ul>
     
     <p>Bu uygulama ile hem müşteri taleplerini hızlı bir şekilde karşılayabilir hem de ekibinizin iş yükünü daha etkin bir şekilde yönetebilirsiniz. Teknolojiyi, işinizi büyütmek ve müşteri memnuniyetini artırmak için kullanın!</p>
-</body>
+

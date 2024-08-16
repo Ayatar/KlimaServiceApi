@@ -8,7 +8,7 @@
         <li><strong>Yetkili Yönetimi:</strong> Yetkili kişiler, yeni personel ekleyebilir, mevcut personellerin bilgilerini güncelleyebilir ve görev dağılımını optimize edebilir.</li>
     </ul>
     
-<p>Bu uygulama ile hem müşteri taleplerini hızlı bir şekilde karşılayabilir hem de ekibinizin iş yükünü daha etkin bir şekilde yönetebilirsiniz. Teknolojiyi, işinizi büyütmek ve müşteri memnuniyetini artırmak için kullanın!</p>
+<p>Bu uygulama ile hem müşteri taleplerini hızlı bir şekilde karşılayabilir hem de ekibinizin iş yükünü daha etkin bir şekilde yönetebilirsiniz.</p>
 
 
 <body>
@@ -20,5 +20,5 @@
         <li><strong>Personnel Management:</strong> Match service calls with relevant personnel and monitor their progress. Personnel can control the calls assigned to them through the application and manage their work processes.</li>
         <li><strong>Authorized Management:</strong> Authorized individuals can add new personnel, update existing personnel information, and optimize task distribution.</li>
     </ul>
-    <p>With this application, you can quickly respond to customer requests while managing your team's workload more effectively. Use technology to grow your business and enhance customer satisfaction!</p>
+    <p>With this application, you can quickly respond to customer requests while managing your team's workload more effectively.</p>
 </body>
